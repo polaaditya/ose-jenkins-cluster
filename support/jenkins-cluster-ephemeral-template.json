@@ -34,7 +34,7 @@
 		    "kind": "ImageStream",
 		    "apiVersion": "v1",
 		    "metadata": {
-		        "name": "cento"
+		        "name": "centos"
 		    },
 			"spec": {
 				"dockerImageRepository": "centos"
